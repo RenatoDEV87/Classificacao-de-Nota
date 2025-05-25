@@ -64,10 +64,10 @@ if (isNaN(nota) || nota < 0 || nota > 10) {
 npm install prompt-sync
 ```
 
-3. Salve o arquivo como `exercicio_02.js` e execute com:
+3. Salve o arquivo como `exercicio_03.js` e execute com:
 
 ```
-node exercicio_02.js
+node exercicio_03.js
 ```
 
 ---
